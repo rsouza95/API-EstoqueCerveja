@@ -1,2 +1,2 @@
 # API-EstoqueCerveja
-API REST de gerenciamento estoques de cerveja DIO - RPeleira
+API REST de gerenciamento estoques de cerveja
